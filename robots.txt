@@ -1,0 +1,7 @@
+User-agent: YandexBot
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: *
+Allow: /
+Sitemap: http://boorkof33.ru/sitemap.xml
